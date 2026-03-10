@@ -52,14 +52,11 @@
 
 ### 🏗️ Featured Projects
 
+
 | Project | Description | Tech |
 |---|---|---|
-| 🎬 [Netmirror Cinema Platform](#) | Responsive cinema booking platform with interactive UI | React.js, HTML, CSS, JS |
-| ♟️ [AI Chess Engine](#) | Chess AI using Minimax & Alpha-Beta Pruning algorithms | Python, AI Algorithms |
-| 🍽️ [Restaurant Management System](#) | Full relational database system for restaurant operations | SQL, System Design |
-| 🎮 [Game Engine](#) | High-performance game engine with real-time processing | C++, SDL |
-
-> 💡 *Replace `#` links above with your actual repo URLs*
+| 🎬 [Netmirror Cinema Platform](https://github.com/Abrarbut/netmirror) | Responsive cinema booking platform with interactive UI | React.js, HTML, CSS, JS |
+| 🍽️ [Restaurant Management System](https://github.com/Abrarbut/webproject) | Full relational database system for restaurant operations | SQL, System Design |
 
 ---
 
