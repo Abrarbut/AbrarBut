@@ -21,7 +21,7 @@
 - 🧠 AI Enthusiast (Minimax, Alpha-Beta)
 - 🔐 Cybersecurity Intern @ NUST
 - 🏗️ Focused on **Scalable System Design**
-- 📍 Rawalpindi, Pakistan
+- 📍 Islamabad, Pakistan
 
 ---
 
