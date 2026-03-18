@@ -9,7 +9,7 @@
 ## 🎨 Banner
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abrar%20Butt&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Full+Stack+Developer;AI+Enthusiast;NUST+CS+Student" />
 </p>
 
 ---
@@ -83,7 +83,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+
 
 ## 🐍 Contribution Snake
 
@@ -109,7 +109,18 @@
 - 🛒 Scalable E-Commerce Systems  
 
 ---
+## 🧑‍💻 About Me
 
+🚀 Full Stack Developer with strong foundations in **scalable systems & AI algorithms**  
+🎓 Computer Science student at **NUST, Pakistan**  
+🔐 Cybersecurity Intern with experience in **security analysis & system design**  
+
+💡 I specialize in:
+- Building **end-to-end MERN applications**
+- Designing **efficient system architectures**
+- Solving problems using **AI & optimization techniques**
+
+📍 Open to **internships, freelance, and collaborations**
 ## 🤝 Let's Connect
 
 <p align="center">
