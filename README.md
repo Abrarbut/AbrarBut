@@ -16,14 +16,16 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 CS Student @ **NUST, Pakistan**
-- 💻 Full Stack Developer (MERN + Next.js)
-- 🧠 AI Enthusiast (Minimax, Alpha-Beta)
-- 🔐 Cybersecurity Intern @ NUST
-- 🏗️ Focused on **Scalable System Design**
-- 📍 Islamabad, Pakistan
+🚀 Full Stack Developer with strong foundations in **scalable systems & AI algorithms**  
+🎓 Computer Science student at **NUST, Pakistan**  
+🔐 Cybersecurity Intern with experience in **security analysis & system design**  
 
----
+💡 I specialize in:
+- Building **end-to-end MERN applications**
+- Designing **efficient system architectures**
+- Solving problems using **AI & optimization techniques**
+
+📍 Open to **internships, freelance, and collaborations**
 
 ## ⚡ Tech Stack
 
@@ -109,18 +111,6 @@
 - 🛒 Scalable E-Commerce Systems  
 
 ---
-## 🧑‍💻 About Me
-
-🚀 Full Stack Developer with strong foundations in **scalable systems & AI algorithms**  
-🎓 Computer Science student at **NUST, Pakistan**  
-🔐 Cybersecurity Intern with experience in **security analysis & system design**  
-
-💡 I specialize in:
-- Building **end-to-end MERN applications**
-- Designing **efficient system architectures**
-- Solving problems using **AI & optimization techniques**
-
-📍 Open to **internships, freelance, and collaborations**
 ## 🤝 Let's Connect
 
 <p align="center">
